@@ -1,2 +1,2 @@
 # LCSF2439.github.io
-LCSF2439 Project term Fernando Ferreyra
+LCSF2439 Project
